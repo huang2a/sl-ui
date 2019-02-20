@@ -68,7 +68,7 @@ sl-ui组件库
         </view>
         <view class="info-items flex">
             <view class="title">房屋地址 </view>
-            <view class="text flex-item">东区镇独立区自由街道11号东区镇独立区自由街道11号东区镇独立区自由街道11号</view>
+            <view class="text flex-item">东区镇独立区自由街道11号</view>
         </view>
         <view class="info-items flex">
             <view class="title">安装推荐码</view>
