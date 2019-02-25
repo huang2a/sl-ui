@@ -1,5 +1,21 @@
 ### sl-ui
 sl-ui组件库
+## 弹性盒子布局
+```
+<view class="flex">
+    <view class="flex-item bg-primary padding-sm">1</view>
+    <view class="flex-item bg-success padding-sm">2</view>
+</view>
+<view class="flex">
+    <view class="flex-item bg-primary padding-sm">1</view>
+    <view class="flex-item bg-success padding-sm">2</view>
+    <view class="flex-item bg-info padding-sm">3</view>
+</view>
+<view class="flex">
+    <view class="bg-warning padding-sm" style="widht:200rpx;">widht=200</view>
+    <view class="flex-item bg-danger padding-sm">2</view>
+</view>
+```
 
 ## 按钮组件
 ```
