@@ -48,7 +48,8 @@ sl-ui组件库
 ## 订单状态组件
 ```
 <view class="state-box">
-        代缴押金
+    <view class="state-title">代缴押金</view>
+    <view class="state-tip">押金提示状态</view>
 </view>
 ```
 ## 订单详情组件
