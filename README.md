@@ -181,7 +181,7 @@ sl-ui组件库
 </view>
 ```
 
-## 操作成功页面
+## 列表页面组件
 ```
 <view class="success-box">
     <view class="success-img">
@@ -192,6 +192,36 @@ sl-ui组件库
     </view>
     <view class="success-dos">
         平台工作人员真正积极处理中
+    </view>
+</view>
+```
+## 操作成功页面
+```
+<view class="list-cells">
+    <view class="list-cell list-cell_access">
+        <view class="list-cell-bd">
+            <view class="">规格: 3磅 草莓味</view>
+        </view>
+        <view class="list-cell-ft">
+        </view>
+    </view>
+    <view class="list-cell list-cell_access">
+        <view class="list-cell-bd">
+            <view class="">规格: 3磅 草莓味</view>
+        </view>
+        <view class="list-cell-ft">
+        </view>
+    </view>
+    <view class="list-cell list-cell_access">
+        <view class="list-cell-hd">
+            <image src="https://cloud.xshuli.com/assets/layouts/img/avatar.png" alt="" style="width:20px;margin-right:16px;display:block" mode="widthFix"> </image>
+        </view>
+        <view class="list-cell-bd">
+            <view class="">规格: 3磅 草莓味</view>
+        </view>
+        <view class="list-cell-ft">
+            说明文字
+        </view>
     </view>
 </view>
 ```
